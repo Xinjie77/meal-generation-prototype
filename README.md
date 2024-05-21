@@ -1,4 +1,4 @@
-# exercise-generation-prototype
+# meal-generation-prototype
 
 run frontend by going to the frontend folder and: `npm run start`
 run backend by going to the chatCompletionBackend folder and: `go run cmd/app/main.go`
